@@ -1,6 +1,8 @@
 """
 Aim;this is script counts the number of lines in standats input
-Input: Strings from the command line  
+Input: Strings from the command line
+Output:name of the file
+Author: Ekaterina Andrusenko
 """
 import sys
 
